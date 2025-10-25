@@ -25,6 +25,8 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+![bmi-calc-demo](https://github.com/user-attachments/assets/77a54b77-b0ff-4a38-bc5a-e0d272da1061)
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
